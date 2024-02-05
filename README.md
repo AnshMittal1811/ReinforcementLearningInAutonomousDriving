@@ -17,13 +17,13 @@ Run Script `train_agent.py`
 Run Script `eval_agent.py`
 - **Evaluate Agent**: Use `eval_model(model_path)` to evaluate an agent. Specify the path to the model you wish to evaluate.
 
-**Note**:  A pre-trained model was provided. If you want to evaluate this pre-trained agent, please download the model from [this link](https://drive.google.com/drive/folders/1ozd8M5q2DDxoHQIQc6tabHcS8o9_ZQuH) and place the model zip file under path `training/Saved_Models`. In this case, you can directly execute `eval_agent.py` as the default path in the script is the path of this model.
+**Note**:  A pre-trained model was provided. If you want to evaluate this pre-trained agent, please download the model from [this link](https://drive.google.com/file/d/1h4w4-wEs82a7DcTc1jvHL7hf9Ga0Hh0t/view?usp=sharing) and place the model zip file under path `training/Saved_Models`. In this case, you can directly execute `eval_agent.py` as the default path in the script is the path of this model.
 
 ---
 ## Demo:
 
 We also provided a demo video of the pre-trained agent with 400,000 training timesteps
-[Demo Video](https://drive.google.com/file/d/1ijbiKa8CEiVy7xC2KwXqHiyEQwAfEcNM/preview)
+[Demo Video](https://drive.google.com/file/d/1oPE-OVO7vtjUOA8bhX8DBEe8Zi4sNd0s/view?usp=sharing)
 
 ---
 ## About Agent:
@@ -33,7 +33,7 @@ Implementation details of our gym environment are in `carla_env/carla_env_multi_
 ### Observation Spaces: 
 [semantic segmentation camera sensor data], [relative position, relative velocity, relative speed]
 
-![Screenshot 2023-12-04 180751](https://github.com/Somdit/MimicPilot/assets/40221390/f9eb0608-4914-4f8d-9fdf-f288b888dbd0)
+![Screenshot 2023-12-04 180751]()
 
 | Color        | Semantic Segmentation |
 |--------------|-----------------------|
